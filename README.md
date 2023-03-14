@@ -10,27 +10,27 @@ Desain kelas:
 
 1. Kelas Manusia:
 
-Atribut: nama, jenis_kelamin
+   Atribut: nama, jenis_kelamin
 
-Metode:-
+   Metode:-
 
 2. Kelas Mahasiswa:
  
-Atribut: nama, jenis_kelamin, nim, buku_pelajaran, laptop
+   Atribut: nama, jenis_kelamin, nim, buku_pelajaran, laptop
 
-Metode: makan(), minum(), tidur(), belajar()
+   Metode: makan(), minum(), tidur(), belajar()
 
 3. Kelas Dosen:
 
-Atribut: nama, jenis_kelamin, nip, spidol, papan_tulis, laptop
+   Atribut: nama, jenis_kelamin, nip, spidol, papan_tulis, laptop
 
-Metode: mengajar(),  memberikan_nilai()
+   Metode: mengajar(),  memberikan_nilai()
 
-4. Kelas AnggkgotaKlub:
+4. Kelas AnggotaKlub:
 
-Atribut: nama, jenis_kelamin, klub
+   Atribut: nama, jenis_kelamin, klub
 
-Metode: merencanakan_program()
+   Metode: merencanakan_program()
 
 Berikut merupakan diagram class nya:
 
