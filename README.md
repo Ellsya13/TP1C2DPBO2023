@@ -9,19 +9,27 @@ desin kelas berikut ini :
 Desain kelas:
 
 1. Kelas Manusia:
+
 Atribut: nama, jenis_kelamin
+
 Metode:-
 
 2. Kelas Mahasiswa:
+ 
 Atribut: nama, jenis_kelamin, nim, buku_pelajaran, laptop
+
 Metode: makan(), minum(), tidur(), belajar()
 
 3. Kelas Dosen:
+
 Atribut: nama, jenis_kelamin, nip, spidol, papan_tulis, laptop
+
 Metode: mengajar(),  memberikan_nilai()
 
 4. Kelas AnggkgotaKlub:
+
 Atribut: nama, jenis_kelamin, klub
+
 Metode: merencanakan_program()
 
 Berikut merupakan diagram class nya:
